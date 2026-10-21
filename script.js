@@ -133,9 +133,9 @@ const faq = {
   donaciones: {
     question: "¿Puedo hacer una donación?",
     answers: [
-      "no eperativo.",
-      "opcion fuera de servicio.",
-      "fase alfa."
+      "puedes haser donacion normal o en linea, para mayor informacion abre el apartado catalogo.",
+      "claro busca el apartado catalogo para mayor informacion del tema.",
+      "puedes donar comida o juguetes para mayor informacios abre el apartado catalogo."
     ]
   },
 
